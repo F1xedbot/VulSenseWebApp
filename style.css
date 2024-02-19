@@ -1,0 +1,53 @@
+.stApp {
+    background: #0e1117;
+}
+
+div.stTabs button {
+    background: #0e1117;
+}
+
+.stApp header {
+    background: #0e1117;
+}
+
+/* ---------- Main page hacks ---------- */
+
+section[tabindex="0"] {
+    /* no scroll */
+    /*overflow: hidden;*/
+    scroll-padding: 20%;
+    scroll-behavior: smooth;
+    scroll-margin: 60px;
+
+}
+
+section[tabindex=0] div.stButton {
+    left: -999em;
+    position: absolute;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    margin-bottom: 1rem;
+}
+
+.appview-container .main .block-container {
+    padding-top: 2.875rem;
+    padding-bottom: 0px
+}
+
+img {
+    /* object-fit: cover; */
+    width: 100%;
+    /* height: 100%; */
+}
+
+div.stTabs>div>div:nth-of-type(3) {
+    overflow-x: hidden;
+    height: 80vh;
+}
+
+div.stTabs>div>div:nth-of-type(3) p {
+    padding-right: 10px;
+}
+
