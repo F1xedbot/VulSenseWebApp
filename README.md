@@ -1,7 +1,7 @@
 # VulSenseWebApp
 
 ## Description
-VulSenseWebApp is an end-to-end implementation of the VulnSense smart contract vulnerability detection model. This  framework employs a multimodal deep learning approach to enhance the efficiency of smart contract vulnerability detection on the Ethereum blockchain. VulnSense comprehensively analyzes both the source code and documentation of Ethereum smart contracts, utilizing BERT and Bi-LSTM models to extract features from code and text. The extracted features are then processed through a fully connected layer to predict potential vulnerabilities. The use of a multimodal architecture distinguishes VulnSense by achieving superior detection accuracy compared to previous single-model approaches.
+VulSenseWebApp is an end-to-end implementation of the VulnSense smart contract vulnerability detection model. This  framework employs a multimodal deep learning approach to enhance the efficiency of smart contract vulnerability detection on the Ethereum blockchain. VulnSense comprehensively analyzes both the source code and documentation of Ethereum smart contracts, utilizing BERT and Bi-LSTM along with GNN models to extract features from code, text and binary code. The extracted features are then processed through a fully connected layer to predict potential vulnerabilities. The use of a multimodal architecture distinguishes VulnSense by achieving superior detection accuracy compared to previous single-model approaches.
 
 ## ML Model Folder
 Access the ML model folder [here](https://drive.google.com/file/d/1T7NiqtR3VcSOanwi8P7K0fI2Ui8kcnlL/view?usp=sharing).
