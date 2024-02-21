@@ -25,8 +25,7 @@ Two frameworks are available for building the web app:
    - Execute `scaffold.py` to run the web app using the Streamlit framework. This option provides a fast and resource-efficient solution, although the UI may exhibit occasional unreliability.
    - Execute `app.py` to run the web app using the Flask framework. This option ensures a reliable and stable performance, albeit with longer loading times and higher resource usage.
 
-## Demo (Streamlit)
+## Demo
 
-*Link to Streamlit demo.*
-
+![VulnSense WebApp Demo (Streamlit)](https://github.com/F1xedbot/VulSenseWebApp/blob/034f12e5bb1b082198195964d7c7548c0e7ce426/VulnSenseStreamlitDemo.mp4)
 This project aims to enhance smart contract security by leveraging advanced deep learning techniques. Thank you for your interest and support!
