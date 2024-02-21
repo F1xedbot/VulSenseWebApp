@@ -27,6 +27,6 @@ Two frameworks are available for building the web app:
 
 ## Demo
 
-![VulnSense WebApp Demo (Streamlit)](https://drive.google.com/file/d/1d_kPI2Go2aEWGDtP0pEr-fNxQhLKZhs0/view?usp=sharing)
+[VulnSense WebApp Demo (Streamlit)](https://drive.google.com/file/d/1d_kPI2Go2aEWGDtP0pEr-fNxQhLKZhs0/view?usp=sharing)
 
 This project aims to enhance smart contract security by leveraging advanced deep learning techniques. Thank you for your interest and support!
